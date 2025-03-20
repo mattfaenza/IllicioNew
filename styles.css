@@ -79,6 +79,12 @@ h1 {
 	padding-top:50px;
 }
 
+#textArea a {
+	text-align:center;
+	text-decoration:underline;
+	font-size:20px;
+}
+
 #images {
 	margin:auto;
 	text-align:center;
