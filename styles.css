@@ -80,6 +80,9 @@ h1 {
 }
 
 #images {
+	margin:auto;
+	text-align:center;
+
 }
 
 footer {
